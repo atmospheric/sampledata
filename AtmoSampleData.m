@@ -12,7 +12,7 @@ classdef AtmoSampleData
     
     rucHybrid13km = fullfile(AtmoSampleData.home,'ruc','rucHybrid13km.grb2');
     rucHybrid20km = fullfile(AtmoSampleData.home,'ruc','rucHybrid20km.grb2');
-    rucIsobaric13km = fullfile(AtmoSampleData.home,'ruc','rucHybrid13km.grb2');    
+    rucIsobaric13km = fullfile(AtmoSampleData.home,'ruc','rucIsobaric13km.grb2');    
   end
 end
 
