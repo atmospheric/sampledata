@@ -15,3 +15,5 @@ classdef AtmoSampleData
     rucIsobaric13km = fullfile(AtmoSampleData.home,'ruc','rucHybrid13km.grb2');    
   end
 end
+
+% Copyright 2013, The MITRE Corporation.  All rights reserved.
